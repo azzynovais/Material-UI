@@ -1,0 +1,15 @@
+{
+    "KPackageStructure": "Plasma/Wallpaper",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "floatingfloatskies@protonmail.com",
+                "Name": "Floating Skies"
+            }
+        ],
+        "Id": "MaterialUI",
+        "License": "CC-BY-SA-4.0",
+        "Name": "MaterialUI"
+    },
+    "X-KDE-PlasmaImageWallpaper-AccentColor": "#188cd9"
+}
